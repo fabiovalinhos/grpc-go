@@ -12,7 +12,7 @@ func createBlog(c pb.BlogServiceClient) string {
 
 	blog := &pb.Blog{
 		AuthorId: "fabiovalinhos",
-		Title:    "My first blog",
+		Title:    "My thirdh blog",
 		Content:  "Content of first blog",
 	}
 
